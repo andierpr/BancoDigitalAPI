@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoDigitalAPI", "BancoDigitalAPI.csproj", "{ABDCF5D0-0EAF-C1AE-F2D2-1B68EDC4CA88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDCF5D0-0EAF-C1AE-F2D2-1B68EDC4CA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDCF5D0-0EAF-C1AE-F2D2-1B68EDC4CA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDCF5D0-0EAF-C1AE-F2D2-1B68EDC4CA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDCF5D0-0EAF-C1AE-F2D2-1B68EDC4CA88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE72C80-8395-4B64-BD38-C190E9A88CC9}
+	EndGlobalSection
+EndGlobal

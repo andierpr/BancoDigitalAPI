@@ -1,0 +1,17 @@
+# Build
+bin/
+obj/
+
+# VS / IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Configuração local
+appsettings.Development.json
+appsettings.Local.json
+
+# Testes
+TestResults/
+coverage/
