@@ -24,4 +24,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Documentacao\" />
+    <Folder Include="ScriptsDBMySql\" />
+  </ItemGroup>
+
 </Project>
